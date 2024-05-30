@@ -46,15 +46,15 @@ I'm a passionate Frontend Developer with over 3 years of experience in Frontend 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulkamaula&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=username&theme=onedark)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zulkamaula&theme=onedark)
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulkamaula&layout=compact&theme=radical)
 
 ## 🔗 Let's Connect with Me
 
