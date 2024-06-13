@@ -17,8 +17,8 @@ jobs:
       - name: Generate Snake Game from contribution graph
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-snake.svg
+          github_user_name: zulkamaula
+          outputs: dist
 
       - name: Push Snake Game to the repository
         uses: peaceiris/actions-gh-pages@v3
