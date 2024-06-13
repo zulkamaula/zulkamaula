@@ -59,4 +59,4 @@ I'm a passionate Frontend Developer with over 3 years of experience in Frontend 
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white)](mailto:mzulkariski@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulkamaula)  [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/zulkamaula_)  [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white)](https://zulkaport.netlify.app)
 
-![GitHub Snake Game](https://github.com/zulkamaula/zulkamaula/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Game](https://github.com/zulkamaula/zulkamaula/blob/output/github-snake.svg)
