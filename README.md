@@ -1,4 +1,4 @@
-# Hi there, I'm Zulkariski Mauladi 👋
+# Hi, I'm Zulkariski 👋
 
 Welcome to my GitHub profile! 
 I'm a passionate Frontend Developer with over 3 years of experience in Frontend Developer/Engineer focusing on VueJS/NuxtJS and litle bit more experience on ReactJS/NextJS. I can do remote work for any place and any time.
@@ -59,4 +59,8 @@ I'm a passionate Frontend Developer with over 3 years of experience in Frontend 
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white)](mailto:mzulkariski@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulkamaula)  [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/zulkamaula_)  [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white)](https://zulkaport.netlify.app)
 
-![GitHub Snake Game](https://github.com/zulkamaula/zulkamaula/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
