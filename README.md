@@ -14,9 +14,9 @@ I'm a **Web Developer & Frontend Engineer** with 3+ years of experience and **a 
 - 😄 Pronouns: He/Him
 
 When I'm not in front of the computer:
-- 🏊 I enjoy swimming,
-- 🏸 playing badminton, and
-- 🎤 singing.
+- 🏊 Swimming
+- 🏸 Badminton
+- 🎤 Singing
 
 ## 🛠️ Skills
 
