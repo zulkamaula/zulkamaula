@@ -1,7 +1,7 @@
 # [![Greeting](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&width=1000&height=70&duration=4000&vCenter=true&lines=🙋+Welcome+to+my+Github+profile!+;I'm+a+Web+Developer+🙴+Frontend+Engineer+👨‍💻+)](https://git.io/typing-svg)
 
 # **Hi There! 👋 I'm Zulkariski** 
-I'm a **Web Developer & Frontend Engineer** with 3+ years of experience and **a passion for UI/UX Design**. Mainly focus on VueJS/NuxtJS but also have experience with ReactJS/NextJS. I'm up for remote work at any time or from anywhere.
+I'm a **Web Developer & Frontend Engineer** with 4+ years of experience and **a passion for UI/UX Design**. Mainly focus on VueJS/NuxtJS but also have experience with ReactJS/NextJS. I'm up for remote work at any time or from anywhere.
 
 ## 🚀 About Me
 
